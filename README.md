@@ -53,7 +53,7 @@ To compare the models, we use the following evaluation metrics:
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/AlImran1027/CSE299_Project
    ```
 2. Open Google Colab and upload the dataset
 3. Run the Jupyter Notebook step by step to train and evaluate models
