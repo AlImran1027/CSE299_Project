@@ -67,7 +67,9 @@ After evaluating all models using accuracy, precision, recall, F1-score, and AUC
 - Exploring deep learning models
 
 ## Contributors
-- 
+- Md.Mukzanul Alam Nishat
+- Al Imran
+- Arman Hossain Nawmee
 
 ## License
 This project is licensed under the MIT License.
