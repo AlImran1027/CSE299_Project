@@ -71,6 +71,4 @@ After evaluating all models using accuracy, precision, recall, F1-score, and AUC
 - Al Imran
 - Arman Hossain Nawmee
 
-## License
-This project is licensed under the MIT License.
 
